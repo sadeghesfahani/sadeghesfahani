@@ -4,6 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python-Django+Developer;JavaScript-React+Js+Developer"></a>
 </p>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **sadeghesfahani/sadeghesfahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
