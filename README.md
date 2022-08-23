@@ -9,6 +9,14 @@
   <br/>
 
 
+
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=sadeghesfahani&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sadeghesfahani&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+
 ![](https://komarev.com/ghpvc/?username=sadeghesfahani&label=PROFILE+VIEWS)
 
 <!--
