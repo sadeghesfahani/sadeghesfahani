@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+stack+developer;entrepreneur;Civil+engineer"></a>
 </p>
 
-<div style="display:flex">
+<div style="display:flex;align-items:center;">
 <img alt="DenverCoder1's Github Stats" src="https://readme-stats-sadeghesfahani.vercel.app/api/?username=sadeghesfahani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 <img alt="DenverCoder1's Github Stats" src="https://readme-stats-sadeghesfahani.vercel.app/api/top-langs/?username=sadeghesfahani&langs_count=8&layout=compact&theme=react&hide_border=true&cache_seconds=7201&bg_color=1F222E&title_color=F85D7F&count_private=true&icon_color=F8D866&hide=Jupyter%20Notebook,HTML,CSS,SCSS,handlebars,dockerfile,shell,powershell,batchfile" height="192px"/>
